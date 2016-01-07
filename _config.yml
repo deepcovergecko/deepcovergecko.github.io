@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://lukemcook.github.io
+title: deepcovergecko
+tagline: Intermittently is the word
+description: My awesome new site
+paginate: 5
